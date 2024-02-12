@@ -1,6 +1,7 @@
 go 1.21.1
 
 use (
+  ./26-remove-duplicates-from-sorted-array
   ./27-remove-element
   ./88-merge-sorted-array
 )
