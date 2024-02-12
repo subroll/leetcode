@@ -1,0 +1,5 @@
+go 1.21.1
+
+use (
+  ./88-merge-sorted-array
+)
