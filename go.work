@@ -1,5 +1,6 @@
 go 1.21.1
 
 use (
+  ./27-remove-element
   ./88-merge-sorted-array
 )
